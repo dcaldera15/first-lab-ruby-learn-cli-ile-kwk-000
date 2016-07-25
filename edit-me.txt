@@ -1,1 +1,5 @@
 Hey! I had a guy named Kevin help me find this lab because the Learn IDE wasn't opening up to the lesson directory.
+
+I guess I'm adding more changes to the text editor doc because it says I haven't added changes.
+
+save changes
